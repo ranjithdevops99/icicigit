@@ -11,6 +11,9 @@ line one modified
  
 =======
 5 line modified for QA
+<<<<<<< HEAD
 >>>>>>> app1.0
-6 line resolved by dev 1
-7 line bugs issued
+=======
+6 line 6 devloped by dev1
+7 line crashed 
+>>>>>>> app1.0
